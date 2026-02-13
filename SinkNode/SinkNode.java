@@ -1,4 +1,4 @@
-public class SinkNodes {
+public class SinkNode {
     public static void main(String []args){
         int Adj_Matrix[][]={
             {0,1,1,0,1},
